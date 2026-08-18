@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "updatedAt": "2026-08-18T00:00:00Z",
+  "addons": [
+    {
+      "name": "SkyreachUI",
+      "version": "1.0.0",
+      "description": "Core UI addon for Project Skyreach roguelite mechanics.",
+      "url": "https://github.com/MKNOR/ps_addons/releases/download/skyreachui-1.0.0/SkyreachUI.zip",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 0
+    }
+  ]
+}
