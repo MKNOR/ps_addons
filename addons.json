@@ -1,5 +1,15 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "updatedAt": "2026-08-18T00:00:00Z",
-  "addons": []
+  "addons": [
+    {
+      "name": "Bagnon",
+      "version": "2.13.3",
+      "category": "Bags & Inventory",
+      "description": "Combines all your bags into a single, sortable window.",
+      "url": "https://raw.githubusercontent.com/MKNOR/ps_addons/main/Addons/Bagnon-2.13.3.zip",
+      "sha256": "4e183f6f11528733d860b3d974fbaf78b52911dd995f7e06cf64f935b26f9210",
+      "size": 118413
+    }
+  ]
 }
