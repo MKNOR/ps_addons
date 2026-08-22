@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "updatedAt": "2026-08-18T00:00:00Z",
+  "updatedAt": "2026-08-22T00:00:00Z",
   "addons": [
     {
       "name": "Bagnon",
@@ -10,6 +10,33 @@
       "url": "https://raw.githubusercontent.com/MKNOR/ps_addons/main/Addons/Bagnon-2.13.3.zip",
       "sha256": "4e183f6f11528733d860b3d974fbaf78b52911dd995f7e06cf64f935b26f9210",
       "size": 118413
+    },
+    {
+      "name": "Dominos",
+      "version": "1.18.6",
+      "category": "UI & Interface",
+      "description": "Fully movable, resizable replacement for the default action bars.",
+      "url": "https://raw.githubusercontent.com/MKNOR/ps_addons/main/Addons/Dominos-1.18.6.zip",
+      "sha256": "97700e010fc926150c1cb4f0640d20b5a22497dc7b8e85e6e2021a36551541e2",
+      "size": 147469
+    },
+    {
+      "name": "Mik's Scrolling Battle Text",
+      "version": "5.4.78",
+      "category": "UI & Interface",
+      "description": "Scrolling combat text for damage, healing and procs around your character.",
+      "url": "https://raw.githubusercontent.com/MKNOR/ps_addons/main/Addons/MiksScrollingBattleText-5.4.78.zip",
+      "sha256": "c56c3cb840f6bc6f1e5b801aa0c085f756d24b0c92e7e844dca7a294066cab21",
+      "size": 577257
+    },
+    {
+      "name": "X-Perl",
+      "version": "3.1.0",
+      "category": "UI & Interface",
+      "description": "Replaces player, target, party and raid frames with configurable ones.",
+      "url": "https://raw.githubusercontent.com/MKNOR/ps_addons/main/Addons/X-Perl-3.1.0.zip",
+      "sha256": "8237873975540b63ef6edc48bae15c412cb142ce8f8b931f5ab27a68feb006fe",
+      "size": 713278
     }
   ]
 }
